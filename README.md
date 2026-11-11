@@ -1,7 +1,13 @@
 # ⚡ SnapFound · Multimodal AI Lost & Found Radar
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Next.js 15](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Google Gemini](https://img.shields.io/badge/Google-Gemini%20Flash-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
+[![Supabase pgvector](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com)
+
 > **Zero-Typing Multimodal AI Campus Asset Recovery Platform**  
-> Powered by **Next.js 15**, **Google Gemini 2.5 Flash**, and **Supabase pgvector (768-D)**.
+> Powered by **Next.js 15**, **Google Gemini 2.5 Flash**, and **Supabase pgvector (768-D)**.  
+> 🚀 **Live Production Deployment**: Hosted on Vercel with automatic CI/CD from GitHub.
 
 ---
 
@@ -215,3 +221,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📄 License
 
 MIT License. Built for university campus hackathons with ❤️.
+
